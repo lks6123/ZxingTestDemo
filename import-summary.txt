@@ -1,0 +1,83 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* androidtest.iml
+* pom.xml
+* proguard.cfg
+* target\
+* target\androidtest.apk
+* target\androidtest.unaligned.apk
+* target\classes\
+* target\classes\com\
+* target\classes\com\google\
+* target\classes\com\google\zxing\
+* target\classes\com\google\zxing\client\
+* target\classes\com\google\zxing\client\androidtest\
+* target\classes\com\google\zxing\client\androidtest\BenchmarkActivity$1.class
+* target\classes\com\google\zxing\client\androidtest\BenchmarkActivity.class
+* target\classes\com\google\zxing\client\androidtest\BenchmarkAsyncTask.class
+* target\classes\com\google\zxing\client\androidtest\BenchmarkItem.class
+* target\classes\com\google\zxing\client\androidtest\BuildConfig.class
+* target\classes\com\google\zxing\client\androidtest\R$attr.class
+* target\classes\com\google\zxing\client\androidtest\R$drawable.class
+* target\classes\com\google\zxing\client\androidtest\R$id.class
+* target\classes\com\google\zxing\client\androidtest\R$layout.class
+* target\classes\com\google\zxing\client\androidtest\R$menu.class
+* target\classes\com\google\zxing\client\androidtest\R$string.class
+* target\classes\com\google\zxing\client\androidtest\R.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$1.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$10.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$11.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$12.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$13.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$14.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$15.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$2.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$3.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$4.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$5.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$6.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$7.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$8.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity$9.class
+* target\classes\com\google\zxing\client\androidtest\ZXingTestActivity.class
+* target\generated-sources\
+* target\generated-sources\r\
+* target\generated-sources\r\com\
+* target\generated-sources\r\com\google\
+* target\generated-sources\r\com\google\zxing\
+* target\generated-sources\r\com\google\zxing\client\
+* target\generated-sources\r\com\google\zxing\client\androidtest\
+* target\generated-sources\r\com\google\zxing\client\androidtest\BuildConfig.java
+* target\generated-sources\r\com\google\zxing\client\androidtest\Manifest.java
+* target\generated-sources\r\com\google\zxing\client\androidtest\R.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => androidtest\src\main\AndroidManifest.xml
+* res\ => androidtest\src\main\res\
+* src\ => androidtest\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

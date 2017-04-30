@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="camera_permisson">相机权限被拒绝，无法扫描二维码</string>
+</resources>

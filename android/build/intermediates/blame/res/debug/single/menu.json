@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Git\\repository\\ZxingTestDemo\\android\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "F:\\Git\\repository\\ZxingTestDemo\\android\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "F:\\Git\\repository\\ZxingTestDemo\\android\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "F:\\Git\\repository\\ZxingTestDemo\\android\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "F:\\Git\\repository\\MyTest\\android\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "F:\\Git\\repository\\MyTest\\android\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "F:\\Git\\repository\\ZxingTestDemo\\android\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "F:\\Git\\repository\\ZxingTestDemo\\android\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "F:\\Git\\repository\\MyTest\\android\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "F:\\Git\\repository\\MyTest\\android\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "F:\\Git\\repository\\MyTest\\android\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "F:\\Git\\repository\\MyTest\\android\\src\\main\\res\\menu\\capture.xml"
+    }
+]

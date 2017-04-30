@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Git\\repository\\ZxingTestDemo\\androidtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\Git\\repository\\ZxingTestDemo\\androidtest\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Git\\repository\\MyTest\\androidtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\Git\\repository\\MyTest\\androidtest\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

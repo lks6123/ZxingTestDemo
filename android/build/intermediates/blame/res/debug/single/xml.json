@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Git\\repository\\MyTest\\android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\Git\\repository\\MyTest\\android\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\Git\\repository\\ZxingTestDemo\\android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\Git\\repository\\ZxingTestDemo\\android\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

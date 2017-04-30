@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Git\\repository\\MyTest\\android\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "F:\\Git\\repository\\MyTest\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "F:\\Git\\repository\\ZxingTestDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "F:\\Git\\repository\\ZxingTestDemo\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
